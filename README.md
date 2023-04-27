@@ -1,4 +1,7 @@
 # Read the brief of the project
+
+See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
+
 <img width="1105" alt="图片" src="https://user-images.githubusercontent.com/103418623/234824294-9dda5c40-35cd-453f-bc47-0343990e8679.png">
 
 Title:
@@ -17,9 +20,6 @@ It is still unclear how AI-based creativity-supporting systems could tailor to h
 With the question of “How AI should be involved in terms of collaboration in each of the three levels during the creative process?”, the team has built a Human-AI co-creation system to support humans in creating sculpture as case study. This system has three key components: prompt-based AI model (DALL·E 2), advanced computer vision, and robotic arms for physical implementation. The involvement of AI in this system is classified into three levels: (1) level 1 with the least AI involvement to assist outcome execution, (2) level 2 with mediate AI involvement to collaborate with human in idea generation based on requirements inputted, and (3) level 3 with the highest AI involvement to generate operational outputs base on goals provided by humans. This case study also includes a series of validation experiments, where 31 professional sculptors were recruited to create sculptures with the proposed system that enable adjusting the level of AI involvement and systems with fixed AI involvement levels. The effectiveness of the co-creation systems is evaluated by the Creativity Support Index(Carroll et al. 2009), which is a standardized measurement tool for evaluating creativity support. 
 
 Results show that co-creation process between humans and AI can be optimized by allowing for adjustment of the levels of AI involvement at different stages and based on specific needs. This enables humans to maintain control over the role that AI plays in the creative process, ensuring that the outcome aligns with their expectations. A user interface that facilitates transparency can be highly beneficial for understanding the output and decision-making of AI, which helps to build trust in the overall process. In this way, the overall user experience can be enhanced, leading to more creative outcomes. 
-
-
-# See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
 
 
