@@ -1,16 +1,16 @@
-# Read the brief of the project
+#Read the brief of the project
 
 See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
 <img width="1105" alt="图片" src="https://user-images.githubusercontent.com/103418623/234824294-9dda5c40-35cd-453f-bc47-0343990e8679.png">
 
-Title:
+##Title:
 Towards Human-Centered Co-Creation between Humans and AI: A Three-Level Adjustment Framework for Effective Collaboration
 
-Keywords:
+##Keywords:
 Human-AI co-creation, human-centered, collaboration
 
-Abstract:
+##Abstract:
 Even though many aspects of the human creation process remain mysterious, with the advancement in AI technology, various intelligent creativity support systems like DALL·E and Stable Diffusion have emerged (Frich et al. 2019) and give assistance to humans in the creative process as co-creators (Gmeiner, Holstein, and Martelaro 2022).
 
 While AI-based co-creation systems have shown great promise in facilitating creative works, the black box nature of AI models and algorithms imposes a high cognitive load on users when trying to anticipate and comprehend the decision-making process and output delivered by AI. Additionally, individuals hold different preferences on interaction styles in terms of AI involvement in different use cases (Schulz, Kratzer, and Toussaint 2018), yet the role of AI in the co-creation process is often ambiguous and limited by the singular functionality of existing tools (Hwang 2022). Also, as AI takes increasing agency in creative works, it may cause risks of undermining humans’ self-efficacy in collaboration (Hwang 2022). 
@@ -24,7 +24,7 @@ Results show that co-creation process between humans and AI can be optimized by 
 
 
 
-Reference:
+##Reference:
 Frich, Jonas, Lindsay MacDonald Vermeulen, Christian Remy, Michael Mose Biskjaer, and Peter Dalsgaard. 2019. “Mapping the Landscape of Creativity Support Tools in HCI.” In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1–18. CHI ’19. New York, NY, USA: Association for Computing Machinery.
 
 Gmeiner, Frederic, Kenneth Holstein, and Nikolas Martelaro. 2022. “Team Learning as a Lens for Designing Human-AI Co-Creative Systems.” arXiv [cs.HC]. arXiv. http://arxiv.org/abs/2207.02996.
