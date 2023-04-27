@@ -31,8 +31,9 @@ Hwang, Angel Hsing-Chi. 2022. “Too Late to Be Creative? AI-Empowered Tools in 
 Schulz, Ruth, Philipp Kratzer, and Marc Toussaint. 2018. “Preferred Interaction Styles for Human-Robot Collaboration Vary Over Tasks With Different Action Types.” Frontiers in Neurorobotics 12 (July): 36.
 Carroll, Erin A., Celine Latulipe, Richard Fung, and Michael Terry. 2009. “Creativity Factor Evaluation: Towards a Standardized Survey Metric for Creativity Support.” In Proceedings of the Seventh ACM Conference on Creativity and Cognition, 127–36. C&C ’09. New York, NY, USA: Association for Computing Machinery.
 
-## See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
 <img width="1105" alt="图片" src="https://user-images.githubusercontent.com/103418623/234824294-9dda5c40-35cd-453f-bc47-0343990e8679.png">
+
+## See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
 I am a design student and newbie in programming. Modify and improve the code fitting to your needs and welcome to communicate with me. Please send me email. (815037062@qq.com)
