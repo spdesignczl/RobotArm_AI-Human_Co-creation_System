@@ -1,4 +1,5 @@
-# Copy the link of the video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
+# Read the brief of the project
+<img width="1105" alt="图片" src="https://user-images.githubusercontent.com/103418623/234824294-9dda5c40-35cd-453f-bc47-0343990e8679.png">
 
 Title:
 Towards Human-Centered Co-Creation between Humans and AI: A Three-Level Adjustment Framework for Effective Collaboration
@@ -18,7 +19,7 @@ With the question of “How AI should be involved in terms of collaboration in e
 Results show that co-creation process between humans and AI can be optimized by allowing for adjustment of the levels of AI involvement at different stages and based on specific needs. This enables humans to maintain control over the role that AI plays in the creative process, ensuring that the outcome aligns with their expectations. A user interface that facilitates transparency can be highly beneficial for understanding the output and decision-making of AI, which helps to build trust in the overall process. In this way, the overall user experience can be enhanced, leading to more creative outcomes. 
 
 
-
+# See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
 
 
