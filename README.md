@@ -1,4 +1,5 @@
-# RobotArm_AI-Human_Co-creation_System
+# Copy the link of the video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
+
 Title:
 Towards Human-Centered Co-Creation between Humans and AI: A Three-Level Adjustment Framework for Effective Collaboration
 
