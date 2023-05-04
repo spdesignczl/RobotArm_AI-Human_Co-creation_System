@@ -1,7 +1,7 @@
-# Read the brief of the project 
+# Read the brief of the project   
+Update the setup of xArm7 afterwards. OR gain some relevant info from [here](https://github.com/taomatoto/Robotic-Arm-Beginner-)
 
 Lab Study in the Hong Kong Polytechnic University ISD specialism.   
-Update the setup of xArm7 afterwards. OR gain some relevant info from [here](https://github.com/taomatoto/Robotic-Arm-Beginner-)
 
 ## Title:
 Towards Human-Centered Co-Creation between Humans and AI: A Three-Level Adjustment Framework for Effective Collaboration
