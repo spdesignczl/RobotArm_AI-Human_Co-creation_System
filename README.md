@@ -34,8 +34,6 @@ Carroll, Erin A., Celine Latulipe, Richard Fung, and Michael Terry. 2009. “Cre
 
 ![Fig  3  setup](https://github.com/spdesignczl/RobotArm_AI-Human_Co-creation_System/assets/103418623/f216636b-c9a8-41d5-833c-bd8642c4168a)
 
-<img width="1105" alt="图片" src="https://user-images.githubusercontent.com/103418623/234824294-9dda5c40-35cd-453f-bc47-0343990e8679.png">
-
 ## See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
 I am a design student and newbie in programming. Modify and improve the code fitting to your needs and welcome to communicate with me. Please send me email. (815037062@qq.com)
