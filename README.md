@@ -9,6 +9,8 @@ Towards Human-Centered Co-Creation between Humans and AI: A Three-Level Adjustme
 ## Keywords:
 Human-AI co-creation, human-centered, collaboration
 
+![Fig  3  setup](https://github.com/spdesignczl/RobotArm_AI-Human_Co-creation_System/assets/103418623/f216636b-c9a8-41d5-833c-bd8642c4168a)
+
 ## Abstract:
 Even though many aspects of the human creation process remain mysterious, with the advancement in AI technology, various intelligent creativity support systems like DALL·E and Stable Diffusion have emerged (Frich et al. 2019) and give assistance to humans in the creative process as co-creators (Gmeiner, Holstein, and Martelaro 2022).
 
@@ -31,8 +33,6 @@ Hwang, Angel Hsing-Chi. 2022. “Too Late to Be Creative? AI-Empowered Tools in 
 
 Schulz, Ruth, Philipp Kratzer, and Marc Toussaint. 2018. “Preferred Interaction Styles for Human-Robot Collaboration Vary Over Tasks With Different Action Types.” Frontiers in Neurorobotics 12 (July): 36.
 Carroll, Erin A., Celine Latulipe, Richard Fung, and Michael Terry. 2009. “Creativity Factor Evaluation: Towards a Standardized Survey Metric for Creativity Support.” In Proceedings of the Seventh ACM Conference on Creativity and Cognition, 127–36. C&C ’09. New York, NY, USA: Association for Computing Machinery.
-
-![Fig  3  setup](https://github.com/spdesignczl/RobotArm_AI-Human_Co-creation_System/assets/103418623/f216636b-c9a8-41d5-833c-bd8642c4168a)
 
 ## See video demonstration in [Robotic arm with AI-Human co-creation](https://www.bilibili.com/video/BV19z4y1a7Ms/?share_source=copy_web&vd_source=b7ddc9544cae898e3956d79e1784fb88)
 
